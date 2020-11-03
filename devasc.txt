@@ -1,1 +1,1 @@
-test1 devnet
+test1 cisco
